@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "I Just Might",
+  "base_artist": "Bruno Mars",
+  "createdAt": "2026-01-13T05:50:04.487677Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Just Might",
+      "artist": "Dolly Parton",
+      "has_synced": false,
+      "path": "select/01_I_Just_Might_Dolly_Parton.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Just Might",
+      "artist": "Ryan Adams",
+      "has_synced": true,
+      "path": "select/02_I_Just_Might_Ryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Just Might Be",
+      "artist": "Lorrie Morgan",
+      "has_synced": false,
+      "path": "select/03_I_Just_Might_Be_Lorrie_Morgan.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Just Might",
+      "artist": "Stephanie J. Block, Megan Hilty and Allison Janney",
+      "has_synced": true,
+      "path": "select/04_I_Just_Might_Stephanie_J._Block,_Megan_Hilty_and_Allison_Janney.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Just Might",
+      "artist": "Hardo",
+      "has_synced": false,
+      "path": "select/05_I_Just_Might_Hardo.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Just Might",
+      "artist": "Joell Ortiz & !llmind",
+      "has_synced": true,
+      "path": "select/06_I_Just_Might_Joell_Ortiz_&_!llmind.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Just Might",
+      "artist": "Joell Ortiz & Illmind",
+      "has_synced": true,
+      "path": "select/07_I_Just_Might_Joell_Ortiz_&_Illmind.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Just Might",
+      "artist": "Joell Ortiz",
+      "has_synced": true,
+      "path": "select/08_I_Just_Might_Joell_Ortiz.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Just Might",
+      "artist": "Ortiz, Joell & Illmind",
+      "has_synced": true,
+      "path": "select/09_I_Just_Might_Ortiz,_Joell_&_Illmind.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Just Might",
+      "artist": "Stephanie J. Block, Megan Hilty, Allison Janney & Ensemble",
+      "has_synced": false,
+      "path": "select/10_I_Just_Might_Stephanie_J._Block,_Megan_Hilty,_Allison_Janney_&_Ensemble.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Just Might",
+      "artist": "Rich Homie Quan",
+      "has_synced": false,
+      "path": "select/11_I_Just_Might_Rich_Homie_Quan.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Just Might",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/12_I_Just_Might_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bruno Mars - I Just Might [Official Music Video]",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/13_Bruno_Mars_-_I_Just_Might_[Official_Music_Video]_Bruno_Mars.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Just Might",
+      "artist": "Bruno Mars",
+      "has_synced": false,
+      "path": "select/pl_01_I_Just_Might_Bruno_Mars.txt"
+    }
+  ]
+}
